@@ -1,0 +1,6 @@
+{
+  "name": "Iron Road Transporte - Cargas e Contêineres",
+  "description": "Transporte de cargas e containers com excelência. Logística portuária em Santos-SP e operações em todo o Brasil. Juntos somos mais fortes!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
